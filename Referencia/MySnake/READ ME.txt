@@ -1,0 +1,5 @@
+Interneten talált Snake játék kissé megváltoztatott változata
+
+
+
+eredeti:http://zetcode.com/javagames/snake/

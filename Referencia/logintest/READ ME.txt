@@ -1,0 +1,15 @@
+Egyszerű local mysql adatbázis kell hozzá egy localhostolt adatbázis 3306 porton ahová lehet importálni az itt mellékelt logintest.sql adatbázist
+
+
+
+Program:
+
+Bejelentkező felület, ki lehet választani hogy adminként vagy userként lépünk be vagy tudunk  új usert regisztrálni.
+
+Ha adminként lépünk be példa(username:admin jelszó:1234) tudunk új admin felhasználót készíteni, vagy a grades táblába feltölteni új usert és jegyeket vagy updatelni meglévő
+user jegyeit.
+
+Ha userként lépünk be példa(username:user jelszó:1234) egy táblában fel van sorolva a tárgyakhoz tartozó jegyünk illetve ha tudjuk más usernamejét akkor meg tudjunk nézni
+az ő jegyeit is.példa:(test2)
+
+(a példák a mellékelt adatbázisban szereplő eddigi adatok)
